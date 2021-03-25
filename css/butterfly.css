@@ -4,8 +4,8 @@ h1, h2, h3, h4, h5, h6 {
 .layout {
     max-width: 92%;
 }
-.el-textarea__inner {
-    height: 190px;
+.tk-input.el-textarea > textarea {
+    height: 190px i !important;
 }
 /**-----------------------------------------------------------------------**/
 /* 自定义字体 */
