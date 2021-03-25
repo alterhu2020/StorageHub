@@ -2,5 +2,6 @@
     "schedule": "daily",
     "ignoredFiles": [
         "js/*"
-    ]
+    ],
+    "compressWiki": "true"
 }
